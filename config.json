@@ -1,0 +1,9 @@
+{
+  "default_city": "Jakarta",
+  "unit": "metric",
+  "favorite_cities": [
+    "Jakarta",
+    "Surabaya",
+    "Bandung"
+  ]
+}
